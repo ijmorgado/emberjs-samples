@@ -1,13 +1,13 @@
 {
-  "name": "sample1",
+  "name": "sample3",
   "version": "0.0.0",
   "dependencies": {
     "jquery": "~1.9.1",
     "handlebars": "~1.0.0-rc.3",
+    "moment": "~2.0.0",
     "bootstrap": "~2.3.1",
     "ember": "~1.0.0-rc.2",
-    "ember-data": "latest",
-    "moment": "~2.0.0",
-    "showdown": "~0.3.1"
+    "showdown": "~0.3.1",
+    "ember-data": "latest"
   }
 }

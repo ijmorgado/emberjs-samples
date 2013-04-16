@@ -1,9 +1,0 @@
-{
-  "name": "ember-data",
-  "version": "0.0.0",
-  "commit": "4ec6fc550ba73edd60c26128c2fbc06682bcda89",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/emberjs/data.git"
-  }
-}
